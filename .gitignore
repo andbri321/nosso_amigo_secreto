@@ -18,3 +18,4 @@
 .generators
 .rakeTasks
 .idea
+.env-prod
